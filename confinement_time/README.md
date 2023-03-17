@@ -33,6 +33,19 @@ Some useful metrics of this may include:
 - What metrics have you used to determine the goodness of fit of the classification?
 	- Why?
 
+# Interim presentation
+
+15 minute presentation:
+
+we expect to understand:
+- The problem at hand, with a clear sense that there had been some additional reading around the subject, other than the information that had been given in the project proposal
+	- give motivation for the work.
+- The results you already have:
+	- clearly described, with meaningful plots if possible.
+	- how these results motivate the plan moving forward.
+- A clear idea of the plan moving forward
+	- give justification of the steps you expect to make.
+	
 # Folder layout:
 
 ## Data
