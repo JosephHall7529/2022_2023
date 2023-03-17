@@ -35,7 +35,7 @@ Some useful metrics of this may include:
 
 # Interim presentation
 
-15 minute presentation:
+15 minute presentation, (5 mins of questions):
 
 we expect to understand:
 - The problem at hand, with a clear sense that there had been some additional reading around the subject, other than the information that had been given in the project proposal
